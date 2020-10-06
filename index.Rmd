@@ -8,6 +8,6 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## A Natural List 
-
 ![Little Blue Heron, *Egretta caerulea*, Audubon's Corkscrew Swamp Sanctuary 2018](https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/30740622_10157357793413102_1300346884107272192_o.jpg?_nc_cat=108&_nc_sid=84a396&_nc_ohc=dSox8tObvXUAX9Dw9-0&_nc_ht=scontent-lga3-1.xx&oh=cbb95accc12d2d9d4b5667db2e0ee037&oe=5FA2A9FE)
+
+![Cougar, *Puma concolor*, Hastings Natural History Reservation 2018](https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/34108673_10157478783883102_5991035862417145856_o.jpg?_nc_cat=110&_nc_sid=84a396&_nc_ohc=uzUAwcvK4S0AX93JmPe&_nc_ht=scontent-lga3-1.xx&oh=03a780730e3d4c1713d3e1578bd8a1c8&oe=5FA019D0)

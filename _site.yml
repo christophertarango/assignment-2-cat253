@@ -5,4 +5,3 @@ navbar:
       href: index.html
     - text: "Christopher"
       href: christopher.html
-theme: jekyll-theme-tactile

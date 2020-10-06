@@ -1,4 +1,5 @@
 output_dir: "."
+theme: jekyll-theme-tactile
 navbar:
   left:
     - text: "Home"
